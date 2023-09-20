@@ -4,7 +4,7 @@
 
 # Jupyter Notebook: Credit Card Default Prediction
 
-This notebook explores different machine learning techniques for predicting credit card payment defaults, with a focus on k-Nearest Neighbors (kNN) and neural networks. It uses the default of [credit card clients dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset), containing information on 30,000 clients.x
+This notebook explores different machine learning techniques for predicting credit card payment defaults, with a focus on k-Nearest Neighbors (kNN) and neural networks. It uses the default of [credit card clients dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset), containing information on 30,000 clients.
 
 ## Libraries Used
 
